@@ -52,12 +52,13 @@ p {
     text-align: center;
 }
 
-span {
+.amount a {
+    text-decoration: none;
     padding: 30px 20px;
     font-size: 30px;
-    display: inline-block;
     margin: 30px 10px;
     font-weight: 800;
+    display: inline-block;
     color: rgba(0, 0, 0, 0.737);
 }
 
